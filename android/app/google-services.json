@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "287860088737",
+    "project_id": "consultsphere-2400f",
+    "storage_bucket": "consultsphere-2400f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287860088737:android:72c32025fabf64a4ef75e0",
+        "android_client_info": {
+          "package_name": "com.example.consultsphere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287860088737-2h2l1m3cr75588vntdp86jpufsfqjs5g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.consultsphere",
+            "certificate_hash": "7024ed74a5a92c3bdc7b2ed76c8e9b412cdd3e89"
+          }
+        },
+        {
+          "client_id": "287860088737-o21nlvqohg028cegkhsp2j28vfh67pp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGLAoKQ_e8GTqIZlMqUOWvP4muCkhdjjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287860088737-o21nlvqohg028cegkhsp2j28vfh67pp8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "287860088737-ca2sv6f5nnac33hqmha8r6tslv72otei.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.consultsphere"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
